@@ -25,7 +25,7 @@ contrário disso:
 O segundo dígito do CPF é 0
 """
 
-cpf = "746.824.890-70"
+cpf = "74682489070"
 cpf_digitos = []
 
 retira_ponto = "-. "
