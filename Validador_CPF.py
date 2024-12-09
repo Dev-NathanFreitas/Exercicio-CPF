@@ -68,4 +68,4 @@ for digito in cpf_digitos:
 if cpf_valido == cpf:
     print("VALIDO!!!!!")
 else:
-    print("No validooo")
+    print("Não está validooo")
